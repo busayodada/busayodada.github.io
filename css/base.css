@@ -49,7 +49,7 @@ template {
 }
 
 a {
-	background: white;
+	background: transparent;
 }
 
 a:active,
